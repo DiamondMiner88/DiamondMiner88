@@ -16,4 +16,4 @@ Hi! I'm Diamond.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DiamondMiner88&hide=contribs&theme=tokyonight&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondMiner88&hide=contribs&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/Nano-AI)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondMiner88&hide=contribs&theme=tokyonight&show_icons=true&hide_border=true)
