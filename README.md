@@ -1,19 +1,27 @@
 Hi! I'm Diamond.
 
-### Current Major Projects
- - [Among Us Hacks](https://github.com/DiamondMiner88/AmongUsCheat)
- - Discord Bot w/ Dashboard named [KitCat](https://github.com/KitCat-Bot/KitCat)
- - A Bedwars plugin aiming to directly replicate Hypixel's private bedwars plugin
- - [BetterDiscordAddons](https://github.com/DiamondMiner88/BetterDiscordAddons)
+### Projects
+ - [KitCat](https://github.com/KitCat-Bot/KitCat), a moderation discord bot (Private)
+ - [BetterDiscord Addons](https://github.com/DiamondMiner88/BetterDiscordAddons)
+ - [nhentai API wrapper](https://github.com/DiamondMiner88/nhentai)
+ - Bedwars spigot plugin aiming to replicate Hypixel's Bedwars
+ - 3D Among Us (private)
+ - [Among Us Hacks](https://github.com/DiamondMiner88/AmongUsCheat) ***No longer working on***
 
-### Languages I know
+### Have experience with (ranked):
+ - Typescript/Javascript
+ - discord.js 
  - Java
  - Python
- - Javascript
- - Typescript
+ - SpigotAPI
  - C#
- - c++ smol
 
+### Wish to learn/learning
+ - React
+ - Docker
+ - Electron
+
+---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DiamondMiner88&hide=contribs&theme=tokyonight&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondMiner88&hide=contribs&theme=tokyonight&show_icons=true&hide_border=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondMiner88&hide=contribs&theme=tokyonight&show_icons=true&hide_border=true) -->
