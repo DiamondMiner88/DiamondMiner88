@@ -1,27 +1,26 @@
 Hi! I'm Diamond.
 
-### Projects
- - [KitCat](https://github.com/KitCat-Bot/KitCat), a moderation discord bot (Private)
- - [BetterDiscord Addons](https://github.com/DiamondMiner88/BetterDiscordAddons)
+### Projects I'm proud of
+ - KitCat, a moderation discord bot (In development)
  - [nhentai API wrapper](https://github.com/DiamondMiner88/nhentai)
- - Bedwars spigot plugin aiming to replicate Hypixel's Bedwars
- - 3D Among Us (private)
- - [Among Us Hacks](https://github.com/DiamondMiner88/AmongUsCheat) ***No longer working on***
+ - Bedwars minecraft spigot plugin (In development)
 
 ### Have experience with (ranked):
  - Typescript/Javascript
- - discord.js 
+ - discord.js
+ - Spigot API
  - Java
  - Python
- - SpigotAPI
  - C#
 
-### Wish to learn/learning
- - React
- - Docker
- - Electron
+### Learning
+ - Kotlin
+ - Flutter & dart
 
+### Wish to learn in 2021
+ - React w/ Material-UI
+ - Docker
+ - Get familiar with c++
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DiamondMiner88&hide=contribs&theme=tokyonight&show_icons=true&hide_border=true)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondMiner88&hide=contribs&theme=tokyonight&show_icons=true&hide_border=true) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondMiner88&hide=contribs&theme=tokyonight&show_icons=true&hide_border=true)
