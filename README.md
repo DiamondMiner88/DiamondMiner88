@@ -13,17 +13,15 @@ Hi! I'm Diamond.
  - C#
  - Python
 
-### Learning
+### Wish to learn in 2021
  - Kotlin
  - Flutter & dart
  - Docker
-
-### Wish to eventually learn
  - React w/ Material-UI
  - Elixr
  - Go
  - Haskell
- - c++
+ - C++
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DiamondMiner88&theme=tokyonight&show_icons=true&hide_border=true&hide_rank=true)
 
