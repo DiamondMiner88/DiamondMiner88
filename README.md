@@ -1,10 +1,5 @@
 Hi! I'm Diamond.
 
-### Projects I'm proud of
- - [nhentai API wrapper](https://github.com/DiamondMiner88/nhentai)
- - Bedwars, a spigot plugin (In development)
- - KitCat, a general purpose discord bot with a dashboard (private)
-
 ### Familiar with (ranked):
  - Typescript/Javascript
  - discord.js
@@ -13,7 +8,7 @@ Hi! I'm Diamond.
  - C#
  - Python
 
-### Wish to learn in 2021
+### To learn in 2021
  - Kotlin
  - Flutter & dart
  - Docker
